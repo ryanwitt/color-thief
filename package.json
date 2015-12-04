@@ -16,7 +16,7 @@
     "url": "https://github.com/null2/color-thief/issues"
   },
   "dependencies": {
-    "canvas": "^1.3.4"
+    "canvas": "git://github.com/LinusU/node-canvas#pangocairo-test"
   },
   "devDependencies": {
     "nodeunit": "~0.8.2"
